@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mausam</string>
+    <string name="no_weather">Wrong City Name</string>
+</resources>
